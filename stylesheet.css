@@ -72,7 +72,7 @@ div span{
 }
 
 section{
-    background-image: url(/images/list-bg.png);
+    background-image: url(./images/list-bg.png);
     background-repeat: no-repeat;
    background-size: cover;
     height: 300px;
